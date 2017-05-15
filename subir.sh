@@ -3,8 +3,8 @@
 cd /home/cristhian/ProcesoCron
 
 git add .
-git commit -a -m "pruebacomit"
+git commit -a -m "comit"
 git push -u origin master
 
-echo "lol"
+echo "comit dia lunes"
 
