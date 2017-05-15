@@ -6,5 +6,5 @@ git add .
 git commit -a -m "comit"
 git push -u origin master
 
-echo "comit dia lunes"
+echo "primer commit DIA LUNES"
 
