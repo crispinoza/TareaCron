@@ -6,5 +6,5 @@ git add .
 git commit -a -m "commit"
 git push -u origin master
 
-echo "tercer  commit DIA MIERCOLESP"
+echo "cuarto y ultimo commit DIA JUEVESP"
 
